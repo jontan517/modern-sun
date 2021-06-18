@@ -30,8 +30,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "/images/caring-broccoli.png"
+        ]
     },
     "footer": {
         "has_nav": true,
